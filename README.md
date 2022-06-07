@@ -6,5 +6,5 @@ This portfolio is a compilation of code (primarily stored in Jupyter notebooks) 
 
 ### Table of Contents
 
-1. House Prices: notebook for Kaggle competition called **House Prices: Advanced Regression Techniques**.
-2. Titanic Survivors: notebook for Kaggle competition called **Titanic - Machine Learning from Disaster**.  
+1. **House Prices**: notebook for Kaggle competition called *House Prices: Advanced Regression Techniques*.
+2. **Titanic Survivors**: notebook for Kaggle competition called *Titanic: Machine Learning from Disaster*.
