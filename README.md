@@ -8,3 +8,4 @@ This portfolio is a compilation of code (primarily stored in Jupyter notebooks) 
 
 1. **House Prices**: notebook for Kaggle competition called *House Prices: Advanced Regression Techniques*.
 2. **Titanic Survivors**: notebook for Kaggle competition called *Titanic: Machine Learning from Disaster*.
+3. **Digit Recognizer**: notebook for Kaggle competition called *Digit Recognizer*.
