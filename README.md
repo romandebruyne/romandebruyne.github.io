@@ -8,6 +8,8 @@ This portfolio is a compilation of code (primarily stored in Jupyter notebooks) 
 
 #### 1. Kaggle Competitions:
 
-a. **House Prices**: regression problem; using house features to predict the final sales price.
-b. **Titanic Survivors**: classification problem; classify passengers that survived the Titanic's sinking.
-c. **Digit Recognizer**: classification problem; applying classification models to recognize digits.
+<ol type="a">
+  <li>**House Prices**: regression problem; using house features to predict the final sales price.</li>
+  <li>**Titanic Survivors**: classification problem; classify passengers that survived the Titanic's sinking.</li>
+  <li>**Digit Recognizer**: classification problem; applying classification models to recognize digits.</li>
+</ol>
