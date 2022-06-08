@@ -6,6 +6,8 @@ This portfolio is a compilation of code (primarily stored in Jupyter notebooks) 
 
 ### Table of Contents
 
-1. **House Prices**: notebook for Kaggle competition called *House Prices: Advanced Regression Techniques*.
-2. **Titanic Survivors**: notebook for Kaggle competition called *Titanic: Machine Learning from Disaster*.
-3. **Digit Recognizer**: notebook for Kaggle competition called *Digit Recognizer*.
+#### Kaggle Competitions:
+
+1. **House Prices**: regression problem; using house features to predict the final sales price.
+2. **Titanic Survivors**: classification problem; classify passengers that survived the Titanic's sinking.
+3. **Digit Recognizer**: classification problem; applying classification models to recognize digits.
