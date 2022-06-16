@@ -14,3 +14,7 @@ This portfolio is a compilation of code (primarily stored in Jupyter notebooks) 
   <li><strong>Digit Recognizer</strong>: classification problem; applying classification models to recognize digits.</li>
   <li><strong>Store Sales</strong>: time series analysis; forecasting store sales using a linear regression model.</li>
 </ol>
+
+#### 2. Value Investing Project:
+
+Series of notebooks including functions to gather, modify and evaluate stock/company data in accordance to the widely known value investing approach.
