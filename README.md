@@ -8,12 +8,7 @@ This portfolio is a compilation of code (primarily stored in Jupyter notebooks) 
 
 #### 1. Kaggle Competitions:
 
-<ol type="a">
-  <li><strong>House Prices</strong>: regression problem; using house features to predict the final sales price.</li>
-  <li><strong>Titanic Survivors</strong>: classification problem; classify passengers that survived the Titanic's sinking.</li>
-  <li><strong>Digit Recognizer</strong>: classification problem; applying classification models to recognize digits.</li>
-  <li><strong>Store Sales</strong>: time series analysis; forecasting store sales using a linear regression model.</li>
-</ol>
+Collections of notebooks created to participate in Kaggle competitions related to machine learning problems (mainly regression, classification and time series analysis).
 
 #### 2. Value Investing with Python:
 
