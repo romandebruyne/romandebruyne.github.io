@@ -5,6 +5,6 @@ This part of the portfolio is dedicated to an own project called **Value Investi
 ### Table of Contents
 
 <ol type="a">
-  <li><strong>VIPy_01</strong>: function to obtain a brief company profile (name, headquarter, market cap and so on).</li>
+  <li><strong>VIPy_01_CompanyProfile</strong>: function to obtain a brief company profile (name, headquarter, market cap and so on).</li>
   <li><strong>Notebook 2</strong>: under construction.</li>
 </ol>
