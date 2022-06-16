@@ -1,4 +1,4 @@
-### Introduction
+## Kaggle Competitions
 
 This part of the portfolio contains a collection of Jupyter notebooks which I created for Kaggle competitions. All of the competitions are related to regular machine learning problems, including regression and classifications tasks as well as time series analysis.
 
