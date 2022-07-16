@@ -7,8 +7,8 @@ This part of the portfolio is dedicated to a personal project called **Value Inv
 <ol type="a">
   <li><strong>VIPy_01_CompanyProfile</strong>: function to obtain a brief company profile (name, headquarter, market cap and so on).</li>
   <li><strong>VIPy_02_GetModifyMorningstarData</strong>: web scraping and modification of financial data from the Morningstar webpage.</li>
-  <li><strong><red>OUTDATED </red>VIPy_02_GetMorningstarData</strong>: utilize web scraping to obtain financial data from the Morningstar webpage.</li>
-  <li><strong><red>OUTDATED </red>VIPy_03_ModifyMorningstarData</strong>: modification of the web scraped Morningstar data.</li>
+  <li><strong>OUTDATED VIPy_02_GetMorningstarData</strong>: utilize web scraping to obtain financial data from the Morningstar webpage.</li>
+  <li><strong>OUTDATED VIPy_03_ModifyMorningstarData</strong>: modification of the web scraped Morningstar data.</li>
   <li><strong>VIPy_04_MetricAssessment</strong>: function to enhance standardized fundamental analysis applied on the modified Morningstar data.</li>
 </ol>
 
