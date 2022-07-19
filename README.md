@@ -12,4 +12,4 @@ Collections of notebooks created to participate in Kaggle competitions related t
 
 #### 2. Value Investing with Python:
 
-Own project with a series of notebooks including functions to gather, modify and evaluate stock/company data in accordance to the widely known value investing approach.
+Personal project with a series of notebooks including functions to gather, modify and evaluate stock/company data in accordance to the widely known value investing approach.
