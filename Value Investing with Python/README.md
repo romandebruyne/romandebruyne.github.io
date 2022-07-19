@@ -10,6 +10,7 @@ This part of the portfolio is dedicated to a personal project called **Value Inv
   <li><strong>OUTDATED VIPy_02_GetMorningstarData</strong>: utilize web scraping to obtain financial data from the Morningstar webpage.</li>
   <li><strong>OUTDATED VIPy_03_ModifyMorningstarData</strong>: modification of the web scraped Morningstar data.</li>
   <li><strong>VIPy_04_MetricAssessment</strong>: function to enhance standardized fundamental analysis applied on the modified Morningstar data.</li>
+  <li><strong>VIPy_05_MetricDevelopment</strong>: functions to visualize and compare the development of metrics.</li>
 </ol>
 
 ### Notes
